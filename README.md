@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Hamza 👋
+I'm a Software Engineering Student from [Toronto Metropolitan University](https://www.torontomu.ca/programs/undergraduate/computer-engineering/)
+
+Recently, I finished my tenure as Chair for TMU's [Metropolitan Engineering Competition](https://www.metengcomp.com/)!
+- [X] Have you connected with me on [LinkedIn](https://www.linkedin.com/in/muhammadhamzamahboob/)?
+
+[![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamza490)](https://github.com/hamza490/github-readme-stats)
 
 <!--
 **Hamza490/Hamza490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+
 -->
