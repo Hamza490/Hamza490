@@ -15,6 +15,10 @@ In a grade 9 all about me project, I told my class that I wanted to be a
 I'm pursuing these positions not for the accolades, but for what I would have to become in the pursuit of these responsibilites!
 
 I'm hungry for learning, and new challenges. There isn't anything I can't learn!
+
+**Current Status** I'm a 3rd year Software Engineering Student at TMU!
+
+**Current Project** [Coding the MEC site from scratch!](https://github.com/MecChair/mec-website)
 ## My Interests
 
 I have my sights set on some amazing companies:
