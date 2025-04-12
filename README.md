@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Hamza Mahboob, a software engineer building co
 
 ## About Me
 
-I've just come back from my trip to Singapore, and am busy learning React Native to build an international medical passport, while the repo is private, I hope to use what I learn in this project to contribute to open-source projects!
+I've just come back from my trip to Singapore, and am busy learning React Native to build an international medical passport. While the repo is private, I hope to use what I learn in this project to contribute to open-source projects!
 
 **Current Status** I'm a 3rd year Software Engineering Student at TMU!
   
