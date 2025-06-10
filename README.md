@@ -1,4 +1,4 @@
-## Hamza Mahboob
+## Hamza
 
 Computer Engineering @ Toronto Metropolitan University
 
